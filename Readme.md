@@ -2,6 +2,14 @@
 
 ## A snake game made with plain javascript and css.
 
+### Controls:
+
+<br>
+
+####WASD & Arrow keys
+
+<br>
+
 ### To run on a browser:
 
 <br>
