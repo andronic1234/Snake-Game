@@ -1,0 +1,23 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andronic1234/Snake-Game.git"
+  },
+  "author": "Ανδρέας Φωτόπουλος",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andronic1234/Snake-Game/issues"
+  },
+  "homepage": "https://github.com/andronic1234/Snake-Game#readme",
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-builder": "^23.6.0"
+  }
+}
