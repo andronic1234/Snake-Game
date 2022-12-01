@@ -6,7 +6,7 @@
 
 <br>
 
-####WASD & Arrow keys
+#### WASD & Arrow keys
 
 <br>
 
