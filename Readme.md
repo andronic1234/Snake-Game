@@ -1,6 +1,6 @@
 # Snake Game
 
-## A snake game made with plain javascript and css.
+## A snake game made with plain javascript, html and css.
 
 ### Controls:
 
