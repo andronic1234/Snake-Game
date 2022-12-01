@@ -2,9 +2,6 @@
 
 ## A snake game made with plain javascript and css.
 
-<hr>
-
-
 ### To run on a browser:
 
 <br>
