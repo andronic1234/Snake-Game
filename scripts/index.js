@@ -17,10 +17,8 @@ const scores = document.getElementById('scores')
 
 function main(currentTime) {
     if (gameOver) {
-        if (confirm(`Game over. Your score is: ${score}`)) {
-            window.location.reload()
-        }
-        return
+        alert(`Game over. Your score is: ${score}`)
+            return window.location.reload()
     }
     
 
