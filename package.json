@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/andronic1234/Snake-Game#readme",
   "devDependencies": {
-    "electron": "^22.0.0",
-    "electron-builder": "^23.6.0"
+    "electron": "^22.0.0"
   }
 }
